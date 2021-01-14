@@ -5,6 +5,8 @@ import (
 	"strings"
 )
 
+// FmtNumber will format an input to use Ordinal numbers.
+// e.g. int(2) -> "2nd"
 func FmtNumber(number interface{}) string {
 	input := fmt.Sprint(number)
 
