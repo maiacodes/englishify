@@ -7,3 +7,6 @@ Ever needed your program to use English Ordinal number s(1st, 2nd, 3rd, 4th, etc
 `englishify.FmtNumber("180")` -> `180th`
 
 `englishify.FmtNumber(23)` -> `23rd`
+
+## Godoc
+Click [here!](https://godoc.org/github.com/maiacodes/englishify)
